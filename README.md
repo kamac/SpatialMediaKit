@@ -1,6 +1,6 @@
 # SpatialMediaKit
 
-A utility for transforming spatial media.
+A utility for transforming spatial media..
 
 ## Purpose
 
